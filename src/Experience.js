@@ -36,7 +36,7 @@ export default function Experience() {
                         position={[0, 1.56, -1.4]}
                         rotation-x={-0.256}
                     >
-                        <iframe src="https://v2-embednotion.com/Hi-I-m-Rohit-c540dff9ca7141388c0b430e3a22dada?pvs=4" />
+                        <iframe src= "https://v2-embednotion.com/Hi-I-m-Rohit-c540dff9ca7141388c0b430e3a22dada?pvs=4" />
 
                     </Html>
                 </primitive>
